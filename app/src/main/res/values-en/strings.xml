@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User name</string>
+    <string name="nav_header_subtitle">user_email@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Main page</string>
+    <string name="crear_test">Create test</string>
+    <string name="hacer_test">Fill in test</string>
+    <string name="menu_config">Settings</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signin">Signin</string>
+    <string name="logout">Logout</string>
+    <string name="fields">You must fill all the fields</string>
+    <string name="invalid_password">Password must be at least six characters long</string>
+    <string name="succesful_registration">The registration has been succesful</string>
+    <string name="unsuccesful_registration">The registration cannot be completed</string>
+    <string name="unsuccesful_login">The Email or password are incorrect</string>
+    <string name="save_button">Save</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="answer_not_checked">You must select an answer</string>
+    <string name="score">Score</string>
+    <string name="question">Question</string>
+    <string name="press_again_to_finish">Press back again to exit this quiz</string>
+    <string name="create_quizzes">Create your own Quizzes</string>
+
+    <string name="quiz_title_placeholder">Quiz title</string>
+    <string name="question_placeholder">Question</string>
+    <string name="answer1_placeholder">Answer 1</string>
+    <string name="answer2_placeholder">Answer 2</string>
+    <string name="answer3_placeholder">Answer 3</string>
+
+    <string name="button_add_question">Add question</string>
+    <string name="button_save_quiz">Save quiz</string>
+    <string name="quiz_name">Quiz name</string>
+
+    <string name="confirm_save">Do you wish to save this quiz?</string>
+    <string name="fill_all_fields">Please, fill all the fields</string>
+
+    <string name="quiz_saved">Quiz saved succesfully</string>
+    <string name="quiz_deleted">Quiz deleted succesfully</string>
+    <string name="confirm_delete">Do you wish to delete this quiz?</string>
+    <string name="google_unsuccessful_login">The Google login failed.</string>
+    <string name="google_signin">Sign in with Google</string>
+
+    <string name="congratulations">Congratulations, you passed the test!</string>
+    <string name="failed">You failed the test</string>
+    <string name="finalScore">Your score is: </string>
+    <string name="ok">OK</string>
+
+    <string name="night_mode">Night mode</string>
+    <string name="language">Language: </string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+
+    <string name="welcome">Welcome to this Quiz app. This is a quick guide.</string>
+    <string name="quick_guide"> Through this little guide, we show you what you can do.</string>
+    <string name="create_test_guide">Create test: in this section you can create tests indicating the name, adding questions and customizing them.</string>
+    <string name="fillin_test_guide">Fill in test: in this section you can choose between the previously created tests and fill in them.</string>
+    <string name="configuration_guide">Configuration: in this section you can modify the language of the application; Available languages: English, Spanish.</string>
+
+</resources>

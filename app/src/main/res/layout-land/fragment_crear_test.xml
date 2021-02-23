@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.crearTest.CrearTestFragment"
+    android:orientation="vertical"
+    android:padding="15dp"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp">
+
+        <TextView
+            android:id="@+id/tvCreateQuizzes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/create_quizzes"
+            android:textSize="25sp" />
+
+        <Space
+            android:layout_width="15dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btnAddQuestion"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5sp"
+            android:background="@color/colorPrimary"
+            android:drawableLeft="@drawable/ic_add"
+            android:text="@string/button_add_question"
+            android:textColor="@android:color/white"
+            android:textSize="12dp" />
+
+        <Space
+            android:layout_width="15dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btnSaveQuiz"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5sp"
+            android:background="@color/colorPrimary"
+            android:drawableLeft="@drawable/ic_save"
+            android:text="@string/button_save_quiz"
+            android:textColor="@android:color/white"
+            android:textSize="12dp" />
+
+
+    </LinearLayout>
+
+
+    <EditText
+        android:id="@+id/etQuizName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/quiz_name" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/RecyclerCreateQuiz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:scrollbarThumbVertical="@color/colorPrimary"
+        android:scrollbarSize="10dp">
+
+    >
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

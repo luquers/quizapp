@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nombre de currentUser</string>
+    <string name="nav_header_subtitle">email_currentUser@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_home">Página principal</string>
+    <string name="crear_test">Crear test</string>
+    <string name="hacer_test">Cumplimentar test</string>
+    <string name="menu_config">Ajustes</string>
+
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Acceder</string>
+    <string name="signin">Registrarse</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="fields">Debe rellenar todos los campos</string>
+    <string name="invalid_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="succesful_registration">El registro se ha realizado correctamente</string>
+    <string name="unsuccesful_registration">El registro no se pudo completar</string>
+    <string name="unsuccesful_login">El correo electrónico o la contraseña son incorrectos</string>
+    <string name="save_button">Guardar</string>
+
+    <string name="confirm">Confirmar</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Finalizar</string>
+    <string name="answer_not_checked">Debes seleccionar alguna respuesta</string>
+    <string name="score">Puntuación</string>
+    <string name="question">Pregunta</string>
+    <string name="press_again_to_finish">Pulsa atrás de nuevo para salir del cuestionario</string>
+    <string name="create_quizzes">Crea tus propios cuestionarios</string>
+
+    <string name="quiz_title_placeholder">Título del cuestionario</string>
+    <string name="question_placeholder">Pregunta</string>
+    <string name="answer1_placeholder">Respuesta 1</string>
+    <string name="answer2_placeholder">Respuesta 2</string>
+    <string name="answer3_placeholder">Respuesta 3</string>
+
+    <string name="button_add_question">Añadir pregunta</string>
+    <string name="button_save_quiz">Guardar cuestionario</string>
+    <string name="quiz_name">Nombre del cuestionario</string>
+
+    <string name="confirm_save">¿Desea guardar el cuestionario?</string>
+    <string name="fill_all_fields">Por favor, rellene todos los campos</string>
+
+    <string name="quiz_saved">Cuestionario guardado con éxito</string>
+    <string name="quiz_deleted">Cuestionario borrado satisfactoriamente</string>
+    <string name="confirm_delete">¿Desea borrar el cuestionario?</string>
+    <string name="google_unsuccessful_login">El login con google no se pudo realizar correctamente.</string>
+    <string name="google_signin">Acceder con Google</string>
+
+    <string name="congratulations">¡Enhorabuena, has aprobado el test!</string>
+    <string name="failed">Has suspendido el test</string>
+    <string name="finalScore">Tu puntuación es: </string>
+    <string name="ok">OK</string>
+
+    <string name="night_mode">Modo noche</string>
+    <string name="language">Idioma: </string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    <string name="welcome">Bienvenido a la app quizBuilder, en ella podrás crear tus propios test y cumplimentarlos.</string>
+    <string name="quick_guide"> A través de esta pequeña guía, te indicamos lo que puedes hacer.</string>
+    <string name="create_test_guide">Crear test: en esta sección puedes crear tests indicando el nombre, añadiendo preguntas y personalizándolas.</string>
+    <string name="fillin_test_guide">Cumplimentar test: en esta sección puedes elegir entre los tests previamente creados y cumplimentarlos.</string>
+    <string name="configuration_guide">Configuración: en esta sección puedes modificar el idioma de la aplicación; idiomas disponibles: Inglés, Español.</string>
+
+
+
+</resources>

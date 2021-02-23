@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244491686485",
+    "firebase_url": "https://testbuilder-c4a02-default-rtdb.firebaseio.com",
+    "project_id": "testbuilder-c4a02",
+    "storage_bucket": "testbuilder-c4a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244491686485:android:5a4818f8e7c0f42d53badc",
+        "android_client_info": {
+          "package_name": "com.example.proyectoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244491686485-qq9vmagn91ka06s8ctl2dov6jkrvdato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvNcQmb-pTOohQKjSaaDvBKOGIZ-j6Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244491686485-qq9vmagn91ka06s8ctl2dov6jkrvdato.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
